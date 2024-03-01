@@ -1,7 +1,7 @@
 # Analysis Data Project 
 **Proyek Analisis Data Dicoding**
 
-Repository ini adalah proyek yang saya buat sebagai submision proyek analisis data
+Repository ini adalah proyek yang saya buat sebagai submission proyek analisis data
 
 ## Deskripsi
 Proyek ini bertujuan untuk menganalisis data Bike Sharing untuk menghasilkan insight yang bermanfaat.
