@@ -7,6 +7,10 @@ import seaborn as sns
 import altair as alt
 import plotly.express as px
 
+# Abror Muhammad Hazim
+# abrormhazim@gmail.com
+# abrormh
+
 
 st.set_page_config(
     page_title="Bike Sharing Dashboard",
