@@ -76,6 +76,7 @@ with col3:
     total_all_user = df_selected_year['cnt'].sum()
     st.write(f'{total_all_user}')
 
+# tabs
 
 tab1, tab2, tab3 = st.tabs(["Tab 1", "Tab 2", "Tab 3"])
  
