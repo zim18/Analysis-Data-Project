@@ -4,7 +4,7 @@
 Repository ini adalah proyek yang saya buat sebagai submision proyek analisis data
 
 ## Deskripsi
-Proyek ini bertujuan untuk menganalisis data Bike Sharing untuk menghasilkan insight yang bermanfaat
+Proyek ini bertujuan untuk menganalisis data Bike Sharing untuk menghasilkan insight yang bermanfaat.
 
 ## Background dataset
 > Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
@@ -19,7 +19,7 @@ of travel, departure and arrival position is explicitly recorded in these system
 a virtual sensor network that can be used for sensing mobility in the city. Hence, it is expected that most of important
 events in the city could be detected via monitoring these data.
 
-## petunjuk file
+## Petunjuk file
 - DashboardBikeSharing.py : file python dashboard
 - Proyek_Analisis_Data.ipynb : file notebook analisis data
 - Readme.txt : penjelasan lebih lengkap mengenai dataset
