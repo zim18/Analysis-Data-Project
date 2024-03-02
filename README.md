@@ -6,7 +6,7 @@ Repository ini adalah proyek yang saya buat sebagai submission proyek analisis d
 ## Deskripsi
 Proyek ini bertujuan untuk menganalisis data Bike Sharing untuk menghasilkan insight yang bermanfaat.
 
-## Background dataset
+## Dataset Background
 > Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
 back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return 
 back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of 
